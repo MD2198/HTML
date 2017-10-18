@@ -1,12 +1,16 @@
-p{
-    /*width: 500px;*/
-    heigth: 5000px;
-    border: 50px inset chocolate;
-}
-img{
-    border: 50px inset  blue;
+div {
+    width: 700px;
+    height: 700px;
+    border: 10px double chocolate;
+    border-radius: 100%;
+    background-image: url("../img/op1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.one{
-   border: 25px outset red ;
+img{
+      border: 2px ridge #fffc60;
+
+    border-radius: 50%;
+
 }
