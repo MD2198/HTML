@@ -1,0 +1,12 @@
+p{
+    /*width: 500px;*/
+    heigth: 5000px;
+    border: 50px inset chocolate;
+}
+img{
+    border: 50px inset  blue;
+}
+
+.one{
+   border: 25px outset red ;
+}
