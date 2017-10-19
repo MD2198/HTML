@@ -16,3 +16,24 @@ div {
     border: 4px outset darkgoldenrod;
     box-sizing: border-box;
 }
+
+[src]{
+    border: 10px groove black;
+}
+[contenteditable]{
+    width: 500px;
+    height: 300px;
+    border: 4px dashed blue;
+    }
+a:link{
+    color: red;
+}
+a:visited{
+    color: yellow;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: springgreen;
+}
