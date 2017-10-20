@@ -32,7 +32,7 @@ a:visited{
     color: yellow;
 }
 a:hover{
-    color: white;
+    color: black;
 }
 a:active{
     color: springgreen;
